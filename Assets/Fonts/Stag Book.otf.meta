@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4c79f1269ec423b409c6c366db3e20d0
+timeCreated: 1483962134
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stag
+  fontNames:
+  - Stag
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00e8b8ba95b74324cb1eed973d459e5e, type: 3}
+  - {fileID: 12800000, guid: 1c1053abc09d136498de857437c92c1c, type: 3}
+  - {fileID: 12800000, guid: 34ca9c6d89c10464c9cc8cea12df8683, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

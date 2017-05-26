@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVR.Plugins", "AulaVR.Plugins.csproj", "{7A75FD28-1CCE-AE5D-454F-39193B6F47B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVR", "AulaVR.csproj", "{63AB7CFE-E426-C397-9F96-B3DAB05A6CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVR.Editor", "AulaVR.Editor.csproj", "{17FB57E5-407A-C88A-DA0A-B8E543B326C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A75FD28-1CCE-AE5D-454F-39193B6F47B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A75FD28-1CCE-AE5D-454F-39193B6F47B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A75FD28-1CCE-AE5D-454F-39193B6F47B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A75FD28-1CCE-AE5D-454F-39193B6F47B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AB7CFE-E426-C397-9F96-B3DAB05A6CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AB7CFE-E426-C397-9F96-B3DAB05A6CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AB7CFE-E426-C397-9F96-B3DAB05A6CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AB7CFE-E426-C397-9F96-B3DAB05A6CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FB57E5-407A-C88A-DA0A-B8E543B326C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FB57E5-407A-C88A-DA0A-B8E543B326C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FB57E5-407A-C88A-DA0A-B8E543B326C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FB57E5-407A-C88A-DA0A-B8E543B326C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

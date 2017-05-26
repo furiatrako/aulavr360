@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: beac8b0e6757b994b91cad4f1f7b4e07
+timeCreated: 1483962134
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stag
+  fontNames:
+  - Stag
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c79f1269ec423b409c6c366db3e20d0, type: 3}
+  - {fileID: 12800000, guid: 585a78d6e647aa34d839d8231359738a, type: 3}
+  - {fileID: 12800000, guid: aff5b06ac368a1c418c1723db2ddf2bd, type: 3}
+  - {fileID: 12800000, guid: 00e8b8ba95b74324cb1eed973d459e5e, type: 3}
+  - {fileID: 12800000, guid: ae9f0b3b09aa8ca4c83235956c2b71a8, type: 3}
+  - {fileID: 12800000, guid: 1c1053abc09d136498de857437c92c1c, type: 3}
+  - {fileID: 12800000, guid: 65e7641cd6d0a5f4e92e861097ed9a76, type: 3}
+  - {fileID: 12800000, guid: 6e5a471d9109ffa4989fd206371151f5, type: 3}
+  - {fileID: 12800000, guid: 34ca9c6d89c10464c9cc8cea12df8683, type: 3}
+  - {fileID: 12800000, guid: 87bd8a3f1e2a29e4090fd2e39a98d79a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
